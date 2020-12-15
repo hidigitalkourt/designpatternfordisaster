@@ -1,3 +1,6 @@
+## What to read/skim before hand: https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/
+
+
 # Design Patterns for Disaster
 This is a team learning activity meant to suss out the importance or lack thereof of design patterns
 
