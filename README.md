@@ -3,9 +3,12 @@ This is a team learning activity meant to suss out the importance or lack thereo
 
 Scenario: There has been a disaster that has left 200,000 people in need of food. Enter World Kitchen to the rescue. Chefs know how to feed people and there are some with time and crews (and extra staff) to do just that! 
 
-You are on the consultation team to provide feedback on how the Head Chef should allocated chefs and resources to best serve food to 200,000 people for at least 30 days during this crisis.
+You are on the consultation team to provide feedback on how the Head Chef should allocated chefs and resources to best serve food to 200,000 people for at least 30 days during this crisis. This is a daunting task. The head chef(HC) must convince some number of chefs to the "Relief Kitchen". There is only a few days for HC to "personally" make these calls and get this plan into execution. Once HC enlists the help of his collegues they will take it from there. 
 
-In any system obviously resources must be limited so here they are:
+## The HC's asking for your expertise (definately not to cook!)
+How many chefs does the HC need to convince? Remember that there will be 1 in 5 that might not make it, how many backups should HC have just in case? He is counting on you to give him a recommendation and sadly there is not enough time to take everything into account but maybe some kind of design pattern will help but then again maybe it won't!?
+
+In any system obviously resources must be limited and contraints applies so here they are:
 
 ## Stadiums
 There are two stadiums that are available for use. Each can hold several thousand people. The only way people  find out about the second stadium is to be turned away when arriving at the first or being asked to migrate to make room for those coming in. Each Stadium ideally can feed 50,000 people per day.
